@@ -1,17 +1,9 @@
 # soundboard
 
-TODO
+2022-11-08
 
-- get all this on Pages
-- *DONE* CSS styles; remove body margins etc, grid layout, block size audio elements
-- *DONE* kind of / clone this repo and put my local code into it (sure that's not how you're meant to do it)
-- *DONE* choose sounds from https://soundcloud.com/user-374430370
-- *DONE* make a choice between cloning https://github.com/jm3/html5-soundboard or https://github.com/perryharlock/soundboard
-- *DONE* look up cloning
-- *DONE* make it work looking ugly
+A virtual version of a tool I used in interviews with young people to produce speculative ideas of the future.
 
-##  2022-11-08 10:00
+These interviews were part of a doctoral project exploring ideas of the future in young people's internal conversations. You can read the thesis here: <a href="https://research-information.bris.ac.uk/en/studentTheses/ideas-of-the-future-and-their-place-in-young-peoples-internal-con">https://research-information.bris.ac.uk/en/studentTheses/ideas-of-the-future-and-their-place-in-young-peoples-internal-con</a>
 
-not going to fork another soundboard because there's a lot of JS or other cruft I don't have time to work out how to strip out. Instead I'm going to style a plain HTML page with audio tags. 
-
-Still need to pop this up here to be able to use Pages.
+This code is licenced under the <a href="https://spdx.org/licenses/GPL-3.0-or-later.html">GNU General Public License v3.0</a>.
