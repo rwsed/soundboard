@@ -2,8 +2,9 @@
 
 TODO
 
-- CSS styles; remove body margins etc, grid layout, block size audio elements
-- clone this repo and put my local code into it (sure that's not how you're meant to do it)
+- get all this on Pages
+- *DONE* CSS styles; remove body margins etc, grid layout, block size audio elements
+- *DONE* kind of / clone this repo and put my local code into it (sure that's not how you're meant to do it)
 - *DONE* choose sounds from https://soundcloud.com/user-374430370
 - *DONE* make a choice between cloning https://github.com/jm3/html5-soundboard or https://github.com/perryharlock/soundboard
 - *DONE* look up cloning
